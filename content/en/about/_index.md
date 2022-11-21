@@ -67,6 +67,12 @@ Einstein, Albert (1954), *Ideas and Opinions*, New York: Random House, ISBN 0-51
 
 ...
 
+### Presentation
+
+- [Best self presentation](/files/best_self.pdf)
+
+
+
 ### Service to the profession
 
 ...
