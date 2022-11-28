@@ -1,0 +1,6 @@
+rm -rf public 
+hugo 
+git add . 
+git commit -m "my first commit." 
+git remote add origin https://github.com/EmilyLi45/EmilyLi45.github.io.git
+git push -u origin master

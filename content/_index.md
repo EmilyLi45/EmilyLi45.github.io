@@ -3,8 +3,8 @@ title: Home
 ---
 
 <!-- You can change your profile picture here -->
-{{<figure src="/media/nature.jpg" title="This is me, which is me (我就是我，不一样的烟火)" width="450">}}
+{{<figure src="/media/me.png" title="This is me. Stay passionate. Stay curious. Embrace change. Embrace diversity. (嗨，交个朋友吧！)" width="450">}}
 
-I was born on Mars in 2011. Four days after my birth, I moved to the Earth with my family. There, what I saw shocked me greatly. 
+I was born in the east of China. I went to a university in the south of China, and then worked as a planner and copywriter in Beijing. Afterwards I moved to Europe to begin my graduate stage.
 
-这是我 2011 年在火星出生后第三天的照片。第四天，我被运往地球，在那里看到的东西把我吓傻了。
+人生要酷一点吧！
