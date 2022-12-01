@@ -25,14 +25,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>English</title>
-      <link>https://example.com/tags/english/</link>
-      <pubDate>Thu, 07 Jan 2021 13:37:57 -0500</pubDate>
-      
-      <guid>https://example.com/tags/english/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

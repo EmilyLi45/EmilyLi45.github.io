@@ -17,12 +17,13 @@
     </item>
     
     <item>
-      <title>2022 12 01 New Post</title>
-      <link>https://example.com/en/2022/12/01/2022-12-01-new-post/</link>
+      <title>Please never say: I have never done this beforer</title>
+      <link>https://example.com/en/2022/12/01/please-never-say-i-have-never-done-this-beforer/</link>
       <pubDate>Thu, 01 Dec 2022 12:04:19 +0100</pubDate>
       
-      <guid>https://example.com/en/2022/12/01/2022-12-01-new-post/</guid>
-      <description></description>
+      <guid>https://example.com/en/2022/12/01/please-never-say-i-have-never-done-this-beforer/</guid>
+      <description>I had been resistant to building a website by myself. It may result from my working experience that I was the one who planned and layout the websites asking the product manager, developer, and designer to deploy and set them. I used to think programming was a waste of time compared with thinking of new ideas and optimizing my copywriting (clearly, I prefer copywriting to designing or programming).
+However, now, I am building my website.</description>
     </item>
     
     <item>
@@ -65,19 +66,6 @@
 $$p(x) = \frac{1}{\sigma \sqrt{2 \pi}} exp \left(-\frac{1}{2}\left[\frac{x-\mu}{\sigma}\right]^2\right)\tag{1.1}\label{eq1.1}$$
 多行3,
 \begin{align} \sqrt{37} &amp;amp; = \sqrt{\frac{73^2-1}{12^2}} \\ &amp;amp; = \sqrt{\frac{73^2}{12^2}\cdot\frac{73^2-1}{73^2}} \\ &amp;amp; = \sqrt{\frac{73^2}{12^2}}\sqrt{\frac{73^2-1}{73^2}} \\ &amp;amp; = \frac{73}{12}\sqrt{1 - \frac{1}{73^2}} \\ &amp;amp; \approx \frac{73}{12}\left(1 - \frac{1}{2\cdot73^2}\right) \end{align}</description>
-    </item>
-    
-    <item>
-      <title>Markdown Testing</title>
-      <link>https://example.com/en/2021/01/07/second-post/</link>
-      <pubDate>Thu, 07 Jan 2021 13:37:57 -0500</pubDate>
-      
-      <guid>https://example.com/en/2021/01/07/second-post/</guid>
-      <description>See the source code of this page if you are interested.
-H1 H2 H3 H4 H5 H6 List Water Water Water Water Water Water Water Water Water Water Water Water Table Water Water Water Water Water Water Water Water1 Water Water Water Water Quotes What I cannot create, I do not understand2. — Richard Feynman
-Math For example,
-$1 + 1 = 3$
-You can add Tags &amp;amp; References:</description>
     </item>
     
   </channel>
