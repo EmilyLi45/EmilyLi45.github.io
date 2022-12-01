@@ -2,22 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/cn/2022/12/01/2021-04-06-a-new-post/</loc>
-    <lastmod>2022-12-01T12:33:24+01:00</lastmod>
-  </url><url>
-    <loc>https://example.com/</loc>
-    <lastmod>2022-12-01T12:33:24+01:00</lastmod>
-  </url><url>
-    <loc>https://example.com/cn/posts/</loc>
-    <lastmod>2022-12-01T12:33:24+01:00</lastmod>
-  </url><url>
-    <loc>https://example.com/cn/</loc>
-    <lastmod>2022-12-01T12:33:24+01:00</lastmod>
-  </url><url>
     <loc>https://example.com/en/</loc>
     <lastmod>2022-12-01T12:04:19+01:00</lastmod>
   </url><url>
     <loc>https://example.com/en/posts/</loc>
+    <lastmod>2022-12-01T12:04:19+01:00</lastmod>
+  </url><url>
+    <loc>https://example.com/</loc>
     <lastmod>2022-12-01T12:04:19+01:00</lastmod>
   </url><url>
     <loc>https://example.com/en/2022/12/01/please-never-say-i-have-never-done-this-beforer/</loc>
@@ -38,6 +29,12 @@
     <loc>https://example.com/tags/</loc>
     <lastmod>2022-11-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://example.com/cn/posts/</loc>
+    <lastmod>2022-11-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/cn/</loc>
+    <lastmod>2022-11-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://example.com/cn/2022/11/28/zhong/</loc>
     <lastmod>2022-11-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -47,10 +44,10 @@
     <loc>https://example.com/tags/article/</loc>
     <lastmod>2021-01-07T13:42:27-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/cn/2021/01/07/first-post-cn/</loc>
+    <loc>https://example.com/categories/test/</loc>
     <lastmod>2021-01-07T13:42:27-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/test/</loc>
+    <loc>https://example.com/cn/2021/01/07/first-post-cn/</loc>
     <lastmod>2021-01-07T13:42:27-05:00</lastmod>
   </url><url>
     <loc>https://example.com/en/about/</loc>
