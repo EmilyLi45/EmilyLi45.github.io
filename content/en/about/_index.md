@@ -44,12 +44,9 @@ More>>>
 
 ### Introduction
 
-- East, South, North, West
+>  East, South, North, West
  - I was born in a coastal city located in the east of China. I went to a university in the south of China and then worked as a planner and copywriter in Beijing. Afterward, I moved to Europe to begin my graduate stage.
 
-- Nature, Life, Art,  Love
+>  Nature, Life, Art,  Love
  - I like hiking and climbing with my friends; I also like visiting museums and watching movies.
 
-mkdir content/cn/Presentation 
-cp content/cn/about/_index.md content/cn/Presentation
-open content/cn/Presentation/_index.md -a TextEdit 
