@@ -10,11 +10,11 @@ Email: e.xiaoxia.li@gmail.com\ Twitter: https://twitter.com/lixiaoxia17
 
 
 ### Areas of specialisation
-Family Communication; Online Dating; Parental Behaviors; Mental Health
-
+Family Studies; Online Dating; Parental Behaviors; Mental Health; Interpersonal Relationships.
 ### Education
-2020, MA & MSc in Communication and Media Studies, Corvinus University of Budapest
-2012, BA in Advertising, Hunan University of Science and Engineering
+- 2020, MA & MSc in Communication and Media Studies, Corvinus University of Budapest
+
+- 2012, BA in Advertising, Hunan University of Science and Engineering
 
 
 ### Presentation
@@ -32,6 +32,8 @@ Family Communication; Online Dating; Parental Behaviors; Mental Health
 
 ### Activities
 ...Organizing Left-handed Day celebration
+
 ...Anchor in children's day (2014)
+
 ...Drama performance on mental health (2010)
-...
+
