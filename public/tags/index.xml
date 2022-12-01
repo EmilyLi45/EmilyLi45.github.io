@@ -6,7 +6,16 @@
     <description>Recent content in Tags on Hugo-HT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Jan 2021 13:42:27 -0500</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>prose</title>
+      <link>https://example.com/tags/prose/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/prose/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>article</title>
       <link>https://example.com/tags/article/</link>
@@ -22,24 +31,6 @@
       <pubDate>Thu, 07 Jan 2021 13:37:57 -0500</pubDate>
       
       <guid>https://example.com/tags/english/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>prose</title>
-      <link>https://example.com/tags/prose/</link>
-      <pubDate>Thu, 01 Oct 1925 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/tags/prose/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>poem</title>
-      <link>https://example.com/tags/poem/</link>
-      <pubDate>Fri, 01 Jan 1915 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/tags/poem/</guid>
       <description></description>
     </item>
     
