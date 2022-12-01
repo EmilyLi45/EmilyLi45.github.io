@@ -6,29 +6,22 @@ type : list-single
 
 ## Emily Xiaoxia Li
 
-Budapest\
-Beijing/
-Qingdao
-
-
-Email: e.xiaoxia.li@gmail.com\
-Twitter: https://twitter.com/lixiaoxia17
-
-Nationality: China
+Email: e.xiaoxia.li@gmail.com\ Twitter: https://twitter.com/lixiaoxia17
 
 
 ### Areas of specialisation
-Family Communication; Online Dating;Parental Behaviors; Mental Health
+Family Communication; Online Dating; Parental Behaviors; Mental Health
 
 ### Education
-2020, MA&MSc in Communication and Media Studies, Corvinus University of Budapest
+2020, MA & MSc in Communication and Media Studies, Corvinus University of Budapest
+2012, BA in Advertising, Hunan University of Science and Engineering
 
 
 ### Presentation
 
-- [Best self presentation](/files/best_self.pdf)
+- [Reflected Best Self Exercise](/files/best_self.pdf)
 
-- [Thesis presentation](/files/a_cross_cultural_examination.pdf)
+- [Thesis_A Cross-cultural Examination](/files/a_cross_cultural_examination.pdf)
 
 
 ### Articles (in Chinese)
@@ -38,9 +31,7 @@ Family Communication; Online Dating;Parental Behaviors; Mental Health
 3. Beijing Foundation for the Elderly and the Disabled's "Law Seminar" came to Asian Games Village Street, *China Economic Daily*.
 
 ### Activities
-
-...Anchor in children's day
-
-...Drama performance on mental health
-
-
+...Organizing Left-handed Day celebration
+...Anchor in children's day (2014)
+...Drama performance on mental health (2010)
+...

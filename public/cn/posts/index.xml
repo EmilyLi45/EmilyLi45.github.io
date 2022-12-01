@@ -6,7 +6,16 @@
     <description>Recent content in 中文博客 on Hugo-HT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/cn/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Dec 2022 12:33:24 +0100</lastBuildDate><atom:link href="https://example.com/cn/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2021 04 06 a New Post</title>
+      <link>https://example.com/cn/2022/12/01/2021-04-06-a-new-post/</link>
+      <pubDate>Thu, 01 Dec 2022 12:33:24 +0100</pubDate>
+      
+      <guid>https://example.com/cn/2022/12/01/2021-04-06-a-new-post/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>开 博 大 吉</title>
       <link>https://example.com/cn/2022/11/28/zhong/</link>
