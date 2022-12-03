@@ -50,9 +50,15 @@
     <loc>https://example.com/cn/2021/01/07/first-post-cn/</loc>
     <lastmod>2021-01-07T13:42:27-05:00</lastmod>
   </url><url>
+    <loc>https://example.com/cn/project/</loc>
+  </url><url>
     <loc>https://example.com/en/about/</loc>
   </url><url>
+    <loc>https://example.com/en/1/01/01/project/</loc>
+  </url><url>
     <loc>https://example.com/cn/about/</loc>
+  </url><url>
+    <loc>https://example.com/cn/hobby/</loc>
   </url><url>
     <loc>https://example.com/cn/presentation/</loc>
   </url>

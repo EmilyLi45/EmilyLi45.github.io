@@ -6,7 +6,7 @@ type : list-single
 
 ## Emily Xiaoxia Li
 
-Email: e.xiaoxia.li@gmail.com\ Twitter: https://twitter.com/lixiaoxia17
+Email: e.xiaoxia.li@gmail.com Twitter: https://twitter.com/lixiaoxia17
 
 
 ### Areas of specialisation
@@ -22,10 +22,12 @@ Family Studies; Online Dating; Parental Behaviors; Mental Health; Interpersonal 
 
 - [Thesis_A Cross-cultural Examination of Family Communication Patterns, Maternal Psychological Control and Depression](/files/a_cross_cultural_examination.pdf)
 
+- [Intercultural Communication - Comparing the Work Cultures of China and Hungary](/files/Intercultural_work.pdf)
+
 - [Reflected Best Self Exercise](/files/best_self.pdf)
 
 {{<block class="note" >}}
-More>>>
+[More>>>](https://hongtaoh.com/)
 {{< end >}}
 
 ### Articles (in Chinese)
