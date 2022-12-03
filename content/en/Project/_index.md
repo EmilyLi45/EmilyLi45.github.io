@@ -1,8 +1,8 @@
 ---
 title: "Project & Presentation"
 type : list-single
-toc: true
 ---
+{{<block class="note">}}
 
 ## Academic Research
 
