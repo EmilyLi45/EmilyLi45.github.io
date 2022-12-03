@@ -6,7 +6,7 @@ type : list-single
 
 ## Emily Xiaoxia Li
 
-Email: e.xiaoxia.li@gmail.com Twitter: https://twitter.com/lixiaoxia17
+Email: e.xiaoxia.li@gmail.com Twitter: [lixiaoxia17](https://twitter.com/lixiaoxia17)
 
 
 ### Areas of specialisation
@@ -27,7 +27,7 @@ Family Studies; Online Dating; Parental Behaviors; Mental Health; Interpersonal 
 - [Reflected Best Self Exercise](/files/best_self.pdf)
 
 {{<block class="note" >}}
-[More>>>](https://hongtaoh.com/)
+[More>>>](https://xiaoxli.netlify.app/en/project/)
 {{< end >}}
 
 ### Articles (in Chinese)
