@@ -54,10 +54,8 @@
   </url><url>
     <loc>https://example.com/en/project/</loc>
   </url><url>
-    <loc>https://example.com/cn/about/</loc>
-  </url><url>
-    <loc>https://example.com/cn/hobby/</loc>
-  </url><url>
     <loc>https://example.com/cn/presentation/</loc>
+  </url><url>
+    <loc>https://example.com/cn/about/</loc>
   </url>
 </urlset>
