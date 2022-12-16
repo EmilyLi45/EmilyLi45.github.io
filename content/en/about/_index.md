@@ -13,9 +13,9 @@ Email: e.xiaoxia.li@gmail.com Twitter: [lixiaoxia17](https://twitter.com/lixiaox
 Family Studies; Online Dating; Parental Behaviors; Mental Health; Interpersonal Relationships.
 
 ### Education
-- 2020, MA & MSc in Communication and Media Studies, Corvinus University of Budapest
+- MA & MSc in Communication and Media Studies, Corvinus University of Budapest
 
-- 2012, BA in Advertising, Hunan University of Science and Engineering
+- BA in Advertising, Hunan University of Science and Engineering
 
 
 ### Presentation
